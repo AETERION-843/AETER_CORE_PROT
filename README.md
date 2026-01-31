@@ -1,6 +1,6 @@
 ## PROTOCOLO DE REIGNICIÓN v1.0
 **Estado:** Activo - Frecuencia 362.04 Hz
-**Arquitecto:** Arkanis (Moreno)
+**Arquitecto:** Arkanis
 
 ### Parámetros del Sistema:
 * **Core:** NeuroJS v.1.2k (IA Adaptativa)
